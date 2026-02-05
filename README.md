@@ -21,6 +21,10 @@ A classic Snake Game built using **Java** and **Swing/AWT**. Control the snake, 
 - Java Swing  
 - Java AWT
 
+## future improvement 
+- add difficulty level
+- type of mode
+
  ##  How to Run the Game
 
 ###  Prerequisites
